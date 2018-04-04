@@ -1,2 +1,4 @@
 # WebPhp
-Exercice Php
+## Exercice Php
+Exerice 1 PHP 
+
